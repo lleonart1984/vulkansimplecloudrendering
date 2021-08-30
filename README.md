@@ -2,7 +2,7 @@
 
 
 
-![sample](.\sample.png)
+![sample](sample.png)
 
 
 
